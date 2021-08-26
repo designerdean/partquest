@@ -1,0 +1,1 @@
+if(!Modernizr.flexbox){var setMainHeight=function(){var e=$("#header"),i=$("#footer"),t=$("#main"),n=$("#heading-banner"),o=document.body.clientHeight,r=e.outerHeight(),h=i.outerHeight(),a=n.outerHeight(),g=o-(r+h+a);t.css("height",g)};$(document).ready(function(){setMainHeight()}),$(window).on("resize",setMainHeight)}

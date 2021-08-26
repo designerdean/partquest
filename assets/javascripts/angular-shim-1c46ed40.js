@@ -1,0 +1,1 @@
+window.PORTAL_UI=window.PORTAL_UI||{},window.PORTAL_UI.usingAngular||($("[ng-cloak]").remove(),$(".ng-cloak").remove());

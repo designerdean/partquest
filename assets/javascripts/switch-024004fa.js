@@ -1,0 +1,1 @@
+$(".switch").on("click",function(){var s=$(this);s.hasClass("switch-inactive")||s.toggleClass("switch-on")});
